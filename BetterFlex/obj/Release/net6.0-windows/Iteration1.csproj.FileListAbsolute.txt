@@ -1,0 +1,12 @@
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\bin\Release\net6.0-windows\Iteration1.exe
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\bin\Release\net6.0-windows\Iteration1.dll
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.Form1.resources
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.Properties.Resources.resources
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.csproj.GenerateResource.cache
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.AssemblyInfoInputs.cache
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.AssemblyInfo.cs
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.csproj.CoreCompileInputs.cache
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.dll
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\refint\Iteration1.dll
+C:\Semester 3\IntrotoSE\Project iteration1\Iteration1\obj\Release\net6.0-windows\Iteration1.pdb
